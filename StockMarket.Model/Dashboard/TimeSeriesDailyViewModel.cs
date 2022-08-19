@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace StockMarket.Model
+﻿namespace StockMarket.Model
 {
     public class TimeSeriesDailyViewModel  
     {

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Model", "StockM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket.Service", "StockMarket.Service\StockMarket.Service.csproj", "{1F43E642-F33C-4EF3-BE01-498B2E5D28B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarket.Dal", "StockMarket.Dal\StockMarket.Dal.csproj", "{DD696986-35A4-4CE0-91D6-44AF84EDEF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F43E642-F33C-4EF3-BE01-498B2E5D28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F43E642-F33C-4EF3-BE01-498B2E5D28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F43E642-F33C-4EF3-BE01-498B2E5D28B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD696986-35A4-4CE0-91D6-44AF84EDEF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD696986-35A4-4CE0-91D6-44AF84EDEF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD696986-35A4-4CE0-91D6-44AF84EDEF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD696986-35A4-4CE0-91D6-44AF84EDEF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

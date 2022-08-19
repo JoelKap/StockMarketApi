@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\StockMarket.Dal\StockMarket.Dal.csproj" />
     <ProjectReference Include="..\StockMarket.Model\StockMarket.Model.csproj" />
   </ItemGroup>
 
